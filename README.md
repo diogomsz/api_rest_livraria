@@ -12,4 +12,4 @@
 >
 > :broom: DELETE: Deletar um livro do banco de dados com base em seu Id.
 ## Tecnologias utilizadas :computer:
-> :computer_mouse: npm, Node.js, Express, Mongoose para integrar o banco de dados MongoDB com Node, Nodemon como dependência de desenvolvimento.
+> :computer_mouse: npm para gerenciar os pacotes, Node.js, Express para criar as rotas, Mongoose para integrar o banco de dados MongoDB com Node, Nodemon para facilitar o desenvolvimento.
